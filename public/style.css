@@ -1,0 +1,40 @@
+html {
+  font-family: arial, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  background-color: coral;
+}
+
+header, main {
+
+  max-width: 900px;
+  margin:auto;
+  padding:1rem;
+
+  background-color: white;
+
+  margin-bottom: 1rem;
+
+  border-radius: .5rem;
+  box-shadow: .2rem .2rem .4rem rgba(0,0,0,.3);
+
+}
+
+h1,h2,h3 {
+  color:skyblue;
+}
+h1 {
+  font-size: 5rem;
+}
+h2 {
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+
+a, a:visited {
+  color:slateblue;
+}
